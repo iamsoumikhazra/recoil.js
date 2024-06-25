@@ -7,7 +7,7 @@ function App() {
   
   return (
     <>
-      <button onClick={() => setCount(count + 1)}>Count: {count}</button>
+      <button onClick={() => setCount(count + 2)}>Count: {count}</button>
     </>
   );
 }
